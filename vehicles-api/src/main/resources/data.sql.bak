@@ -1,0 +1,1 @@
+INSERT INTO CAR VALUES (1, 'USED', null, 'sedan', '3.6L V6', 'white', 'Gasoline', 32280, 'Impala', 2018, 4, 2018, 40.730610, -73.935242, null, 101);
